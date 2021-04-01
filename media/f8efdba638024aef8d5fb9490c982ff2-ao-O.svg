@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1207" height="643">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="171.47833" y="5.26086" width="222.8261" height="56.52174" id="f8efdba638024aef8d5fb9490c982ff2-ao-1"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="414.95661" y="7.43477" width="254.34784" height="56.52174" id="f8efdba638024aef8d5fb9490c982ff2-ao-2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="686.69575" y="6.34781" width="260.86958" height="58.69566" id="f8efdba638024aef8d5fb9490c982ff2-ao-3"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="964.95664" y="4.1739" width="238.04349" height="61.95653" id="f8efdba638024aef8d5fb9490c982ff2-ao-4"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="167.13051" y="145.47826" width="219.56523" height="223.91306" id="f8efdba638024aef8d5fb9490c982ff2-ao-5"/>
+  <rect fill="#FFEBA2" x="166.58693" y="377.00004" width="219.56523" height="252.17392" id="f8efdba638024aef8d5fb9490c982ff2-ao-6" stroke="#2D2D2D"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="430.71739" y="142.21741" width="219.56523" height="223.91306" id="f8efdba638024aef8d5fb9490c982ff2-ao-7"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="715.50001" y="138.95654" width="219.56523" height="223.91306" id="f8efdba638024aef8d5fb9490c982ff2-ao-8"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="975.28264" y="142.21741" width="219.56523" height="223.91306" id="f8efdba638024aef8d5fb9490c982ff2-ao-9"/>
+  <rect fill="#FFEBA2" x="433.97826" y="375.91308" width="219.56523" height="252.17392" stroke="#2D2D2D" id="f8efdba638024aef8d5fb9490c982ff2-ao-10"/>
+  <rect fill="#FFEBA2" x="713.32609" y="380.2609" width="219.56523" height="252.17392" stroke="#2D2D2D" id="f8efdba638024aef8d5fb9490c982ff2-ao-11"/>
+  <rect fill="#FFEBA2" x="975.28264" y="377.00004" width="219.56523" height="252.17392" stroke="#2D2D2D" id="f8efdba638024aef8d5fb9490c982ff2-ao-12"/>
+  <text transform="matrix(1.0696278197210916,0,0,1.6166579723358159,18.330846683700273,-305.57633929807344) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="f8efdba638024aef8d5fb9490c982ff2-ao-13" y="483.52175" x="80.17398" stroke-width="0" fill="#000000">Lagerreaktionen</text>
+  <line id="f8efdba638024aef8d5fb9490c982ff2-ao-14" y2="372.65218" x2="162.78268" y1="371.56522" x1="4.08702" stroke-width="3" stroke="#ff0000" fill="#FFEBA2"/>
+  <line id="f8efdba638024aef8d5fb9490c982ff2-ao-15" y2="416.67394" x2="158.43472" y1="415.58699" x1="-0.26094" stroke-width="3" stroke="#ff0000" fill="#FFEBA2"/>
+ </g>
+</svg>
