@@ -7279,7 +7279,13 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "0be8365c9221492a817516b7b72a13c5-ao-1-A.svg",
+                "0be8365c9221492a817516b7b72a13c5-ao-1-Q.svg",
+                "0be8365c9221492a817516b7b72a13c5-ao-O.svg",
                 "220px-Hertz.svg.png",
+                "711850bab1f54d5190982ba2d0999d5d-ao-1-A.svg",
+                "711850bab1f54d5190982ba2d0999d5d-ao-1-Q.svg",
+                "711850bab1f54d5190982ba2d0999d5d-ao-O.svg",
                 "Collapse-Tacoma-Narrows-Bridge-Washington-state-1940.jpg",
                 "GUID-ECE2D96F-712A-43D6-B3A2-9C3468A214E6.png",
                 "Lochleibung_mehrschnittige_Verbindung.png",
@@ -7295,6 +7301,7 @@
                 "latex-5e5759c4b9441ae34045716a4c501eceb37c19ae.svg",
                 "latex-641dee0ef8e0e12ffafefa570996d7fa647f9387.svg",
                 "latex-6487aab74c7aa4888596f6ed761371e5ca237a79.svg",
+                "latex-6645f51e5fcfbfd92a8bcec438c09042c2cc372b.svg",
                 "latex-75e3a2edc4ad0b13d30d20e237dc6327f880cbd5.svg",
                 "latex-7f9669b83c1d7b9a0362c691aaa78cea894d19e6.svg",
                 "latex-8e5b542563c536c63e9908f0d0fd8583fce63c8e.svg",
@@ -7311,7 +7318,9 @@
                 "paste-0c6d74bce90103e4a84a3a1f65e75e80b57223e2.jpg",
                 "paste-132265a1b25f70d909047555912b7f733190a77a.jpg",
                 "paste-1377b0fb8da9d0d3f6e517b575a7d77d2f24016d.jpg",
+                "paste-16503d61345aeceb7d18bbd8e0d7078c39261751.jpg",
                 "paste-1ac4d6c29cbd5b2edb0c0bf6ef231c2e931bae2d.jpg",
+                "paste-1f4ba4457fde850eb872f25c3a6f9735731587aa.jpg",
                 "paste-24ee5a2983f545254c00598d6e85b51cdfb1e5de.jpg",
                 "paste-27360ac6a5b6b9a97ccf47dd2914a22cc9906a0f.jpg",
                 "paste-281e60370528d6845c8c5d1492f4f77438c4a7b2.jpg",
@@ -7319,6 +7328,7 @@
                 "paste-2c270b75be91e8704dcd90307009e5bd43a394d4.jpg",
                 "paste-2dd9a173f66f74e824615d7008d9b01ee5090e84.jpg",
                 "paste-370a47b55139b48877fe48faf8eb0d5e4765cfd5.jpg",
+                "paste-386c25c4c9039647b9b02bdc6a3650d494466ad1.jpg",
                 "paste-38d48fec0e4ca367e39934ba1f649b51a4449043.jpg",
                 "paste-3e085b71d0d18fad4bf05ed26f1ec4e17e3bb2e3.jpg",
                 "paste-40b2e95420aa467f106c977e9a79c78076d19dc9.jpg",
@@ -7328,29 +7338,46 @@
                 "paste-444fac929b2680129f1dd6b9af756224d841a095.jpg",
                 "paste-464014634f525eb31fa1e5c6c22a223c5346ef82.jpg",
                 "paste-48a5f10df8f9341c72c0c62b936ed81332d1ab14.jpg",
+                "paste-4c0451ece4cc1902575c521a51eff90bcf262580.jpg",
+                "paste-4c7bb0e10db594adf91f2fd60dae499ba9e834e7.jpg",
                 "paste-536c29bf218db562397ede1a9667f2682c596cd4.jpg",
                 "paste-5975da0c28cf31c55abbb0baabdd839d89fff57e.jpg",
+                "paste-59a49b18eac916fa34759329e51eb2a9ce52bf02.jpg",
                 "paste-59c3c2350d2fdc09b8314ba9e712123b7188b391.jpg",
+                "paste-59e243ceab73b768f375defc9fc00efad22a1067.jpg",
                 "paste-5d4b09b13cfdf2727c931520eeeffc0c5aa84a51.jpg",
                 "paste-60c08a4b8e8061bc436cb072c71bba68f46400df.jpg",
+                "paste-61e013527c6676e3421e5150c5f87c138c3b4589.jpg",
                 "paste-65e79cd8269dcb86c9da6e83c66c149c825dfa21.jpg",
+                "paste-6c776e92fe03d14d91373004b89f8dca1567d6dc.jpg",
                 "paste-6cc57282541ca4c1359c96167fd1b567cf350720.jpg",
+                "paste-6cea274ba98577a72d3de37dcbfca21b3c50e2ee.jpg",
                 "paste-72aa2cfd4eecb4bbc436af890f59a72e5adff39e.jpg",
                 "paste-76da245cdf808304dc7e75128a63d52a49082d3b.jpg",
                 "paste-785c9b43fc88115cc7cdc8533de1c3beaf863525.jpg",
                 "paste-80bb22969d96e4d8c23cbf7bd8f3988e29aae9dc.jpg",
                 "paste-81f2ae8e54c6afe6ff4e6edf80e07b5e322b91bc.jpg",
                 "paste-8241f4b5f0f6039cadd0c53d89dd037319cdfb50.jpg",
+                "paste-893ad94615807103fb6dc66c5037af1a2e0e58df.jpg",
                 "paste-89401d31fb8362c7e013ed077d9dba7cc2cb7ae4.jpg",
+                "paste-89dd5ec2e6511d2dc9dad86bab4835d49054666c.jpg",
                 "paste-8a301f33cb77990c252da8f2a5c7d19a567e7a68.jpg",
                 "paste-8a6df466c91a8a61780ec77b685c6c9a15ae8123.jpg",
                 "paste-9195a93ca622a593b501b85ed081de598cd86b7b.jpg",
                 "paste-950e7a2e7d738d0a8b1285cba844e1e49bbc60bd.jpg",
                 "paste-9d3b4ee25d267590074d40658ecdec9e4870da0f.jpg",
+                "paste-9d3d068317475bab964e7323348161a665ef7efc.jpg",
+                "paste-9f4c1f3c90eb611c638142062f099fd180db186e.jpg",
+                "paste-a361f3483b1e346f7f314f6d0f235a83737d61a1.jpg",
                 "paste-a426015606ee0c3955e7941909922d6137cebb76.jpg",
                 "paste-a8190ee4d3a7ed90e7e6b4a7e5bcc3f8462b342c.jpg",
+                "paste-abd2218e52f71f20e5f1193a5ea49769570caead.jpg",
+                "paste-b2349181568ce219285ccda26eb78d02abf79b4d.jpg",
+                "paste-b332c9268966eb23941470c7e178f125a7ab2935.jpg",
+                "paste-b5283b61344eb221c95b7d5fc87de4548d81bc09.jpg",
                 "paste-b646d54c7da43511c36ca3bb40ca605d3401c8cd.jpg",
                 "paste-bc68e0a5161f59688cc099d72ae284d0933743e3.jpg",
+                "paste-bd6919943590349162f4b9fb4f3efb6960b047be.jpg",
                 "paste-bd6e0250c04f17b16378bb73f34d920fe1c04fee.jpg",
                 "paste-bde644b5846c9998847f43ce2c9252fc1a78dffe.jpg",
                 "paste-be23b098e091ae80177d74620a74642549620811.jpg",
@@ -7360,16 +7387,32 @@
                 "paste-c752c53e6003deeaa34dd1f5bab1b7c8f31ed4b4.jpg",
                 "paste-c997e2f6e4f29244f69fad25be5cbf82d5baa89c.jpg",
                 "paste-cc04bbf4664501946f93263037025947f591225f.jpg",
+                "paste-cdd884e21b96c552380e74ba77c268875db4e4da.jpg",
+                "paste-cf7ebc7beb80566d0a615ebc3e10d0072662a592.jpg",
+                "paste-d0199706fb0d8f4e338be547bbbf75c7553aea03.jpg",
                 "paste-d06edf9842abe8a54b32e1e2cbe889bba53bce22.jpg",
+                "paste-d31cf99e42fe8469c2a0ea149b27fce9ee995c59.jpg",
+                "paste-d4062ba94b0e6d75b3cb00ac95c8b6722910cd03.jpg",
                 "paste-d52c4f3685f3b7fad6532a4b21b003bed1f4c4ee.jpg",
+                "paste-dc6e9e6b99a260918c5e9cd0301e136848b3dd48.jpg",
+                "paste-debf87669a0f5902ef662557ed7cf128746ea21a.jpg",
                 "paste-e5026a9756172aa863a89f516577e7a6645facb5.jpg",
                 "paste-eb8e634121e496af9c73a97c21b49cb4767775de.jpg",
+                "paste-ec35fc075e2ef85a1f9b7aae2b5cbaa4ca296714.jpg",
                 "paste-f26a2dd8d80680b065f1869547503a46a0e4404e.jpg",
                 "paste-f634fecbea0480c1c30182352c960166544a0451.jpg",
                 "paste-f6ebf5a5830eccdde7296a45ddbd372a58be4b1c.jpg",
+                "paste-f742cb8d12e1353314da7dad9a678c5d6ab1d89f.jpg",
                 "paste-f77231823a3833fd98e4d15705b94e8f9dd92020.jpg",
                 "paste-f82299e1a16d2ecc9530e2c37691b0faf0e02c77.jpg",
-                "paste-f9dc64ddbb0888e0be935ed903c5e46ba8b7e264.jpg"
+                "paste-f9dc64ddbb0888e0be935ed903c5e46ba8b7e264.jpg",
+                "paste-fa93c195d53926b88dcb5bd42cf68404b4c1d4ec.jpg",
+                "paste-fa9da6a239f7889a476b1f0643357da13b328742.jpg",
+                "paste-fbfc9e4cc412b40fbe759102893dfb4b210f2614.jpg",
+                "paste-fcdce086e0f1c6999a6b98169466b6ef0c1bc299.jpg",
+                "paste-ffb0df190ab73155be31a3bcdb2048d325c34071.jpg",
+                "tmpmbwvxaiv.png",
+                "tmpv11d1x6k.png"
             ],
             "mid": 1585221884996,
             "name": "Maschinenelmente",
@@ -9453,6 +9496,600 @@
                         "Klausur::Maschinenelemente::04_Schweißverbindungen",
                         "von_Niklas_erstellt"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Selbsthemmung? Wann ist sie erwünscht?",
+                        "<ul><li>Reibung im Gewinde reicht aus, damit Schraube sich nicht herausdreht</li><li>Sobald die Haftreibung überschritten ist, sind die Körper nicht mehr <b>selbsthemmend</b>. &nbsp;<br></li><li><span style=\"color: var(--field-fg); background: var(--field-bg);\">wenn Steigungswinkel φ &lt; ρ´</span></li><li>z.B. bei Schraubstock erwünscht</li></ul><div><img src=\"paste-abd2218e52f71f20e5f1193a5ea49769570caead.jpg\" class=\"\" style=\"height: 294px; width: 264px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "ut}P[w2Kmh",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "0be8365c9221492a817516b7b72a13c5-ao-1",
+                        "Skizziere den Verauf der Druckkraft und des Torsionsmomentes.",
+                        "<img src=\"tmpv11d1x6k.png\" />",
+                        "<img src=\"0be8365c9221492a817516b7b72a13c5-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"0be8365c9221492a817516b7b72a13c5-ao-1-A.svg\" />",
+                        "<img src=\"0be8365c9221492a817516b7b72a13c5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "guid": "oy/2Zt=EMk",
+                    "note_model_uuid": "6b97b97b-7cf2-11eb-a05f-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "711850bab1f54d5190982ba2d0999d5d-ao-1",
+                        "Skizziere den Verauf der Druckkraft und des Torsionsmomentes.",
+                        "<img src=\"tmpmbwvxaiv.png\" />",
+                        "<img src=\"711850bab1f54d5190982ba2d0999d5d-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"711850bab1f54d5190982ba2d0999d5d-ao-1-A.svg\" />",
+                        "<img src=\"711850bab1f54d5190982ba2d0999d5d-ao-O.svg\" />",
+                        ""
+                    ],
+                    "guid": "h&_G#a^,WS",
+                    "note_model_uuid": "6b97b97b-7cf2-11eb-a05f-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Bewegungsschrauben?",
+                        "<ul><li>zur Verstellung von Elementen</li><li>nicht vorgespannt</li><li>Trapez- und Sägegewinde besonders geeignet</li><li>hohe Reibung, schlechter Wirkungsgrad, Verschleiß</li><li>Beispiel: Leitspindel einer Drehmaschine, Spindelpresse<br></li></ul><img src=\"paste-893ad94615807103fb6dc66c5037af1a2e0e58df.jpg\" class=\"\" style=\"height: 139px; width: 213px;\"><img src=\"paste-f742cb8d12e1353314da7dad9a678c5d6ab1d89f.jpg\" class=\"\" style=\"height: 241px; width: 181px;\">",
+                        ""
+                    ],
+                    "guid": "i|KZN_%3s8",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erkläre die Wirkungsweise von Schrauben.",
+                        "<ul><li>Prinzip der schiefen Ebene</li><li>Steigungsrichtung rechts (üblich) oder links</li></ul><div>Befestigungsschrauben:</div><div><ul><li>\n\n<div><span style=\"color: var(--field-fg); background: var(--field-bg);\">lösbare, kraftschlüssige Verbindung</span></div>feste Schraubenverbindung, vorgespannt</li><li>Aufnahme von Zugkräften</li><li>Schraube wirkt als Feder, die die Bauteile zusammenzieht</li><li>Querkräfte nur über Reibung an den Auflageflächen</li></ul></div>",
+                        ""
+                    ],
+                    "guid": "dK;=4oWjmg",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreibe ein Gewinde.",
+                        "<ul><li>profilierte Einkerbung, die entlang einer Schraubenlinie um einen Zylinder verläuft</li><li>entsteht, wenn man eine Gerade mit dem Steigungswinkel φ auf einen Zylinder mit dem Durchmesser d<sub>2</sub> aufwickelt</li><li>kann rechts-, links- und mehrgängig sein</li></ul><div><img src=\"paste-dc6e9e6b99a260918c5e9cd0301e136848b3dd48.jpg\" class=\"\" style=\"height: 364px; width: 585px;\"><img src=\"paste-b332c9268966eb23941470c7e178f125a7ab2935.jpg\" class=\"\" style=\"height: 352px; width: 572px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "D:S[yI!cvj",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Teilung eines Gewindes?",
+                        "<ul><li>der Abstand zwischen einem und dem nächsten Gewindegang</li><li>nur bei eingängigen Gewinden gilt Teilung = Steigung</li></ul>",
+                        ""
+                    ],
+                    "guid": ">!Q&]eIc3",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Steigung bei mehrgängigen Gewinden bestimmt werden?",
+                        "<ul><li>[$$]P_h = n \\cdot P[/$$]<br></li><li>Steigung = Gangzahl * Teilung</li></ul><img src=\"paste-b332c9268966eb23941470c7e178f125a7ab2935.jpg\" class=\"\" style=\"height: 325px; width: 528px;\">",
+                        ""
+                    ],
+                    "guid": "KD(f*#+@Q,",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Gewindeformen gibt es?",
+                        "<ul><li>Flachgewinde</li><li>Trapezgewinde</li><li>Sägegewinde</li><li>Rundgewinde</li><li>Spitzgewinde</li><li>Kugelgewinde</li></ul>",
+                        ""
+                    ],
+                    "guid": "txXiWMVG+q",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Gewindeformen eignen sich für ein Bewegungsgewinde?",
+                        "<ul><li>Trapezgewinde</li><ul><li>für unbestimmte Kraftrichtung</li></ul><li>Sägegewinde</li><ul><li>für einseitig wirkende Kräfte</li></ul><li>Kugelgewinde</li><ul><li>für Bewegungsspindeln ohne Umkehrspiel</li></ul></ul>",
+                        ""
+                    ],
+                    "guid": "yB(ysBShax",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Gewindeformen eignen sich für ein Befestigungsgewinde?",
+                        "<ul><li>Spitzgewinde</li><ul><li>Metrisches-ISO-Gewinde</li><li>wegen großer Reibung am geeignetsten<br></li></ul><li>Rundgewinde</li><ul><li>Bleche</li><li>Elektrogewinde</li></ul></ul><br>",
+                        ""
+                    ],
+                    "guid": "p=+?#h./t[",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Flachgewindes.",
+                        "<img src=\"paste-59e243ceab73b768f375defc9fc00efad22a1067.jpg\" class=\"\" style=\"height: 109px; width: 235px;\">",
+                        ""
+                    ],
+                    "guid": "O/I2f8b>/{",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Trapezgewindes.",
+                        "<img src=\"paste-fa93c195d53926b88dcb5bd42cf68404b4c1d4ec.jpg\" class=\"\" style=\"height: 109px; width: 221px;\"><img src=\"paste-4c7bb0e10db594adf91f2fd60dae499ba9e834e7.jpg\" class=\"\" style=\"height: 88px; width: 208px;\">",
+                        ""
+                    ],
+                    "guid": "r:8:?<Ra#h",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Sägegewindes.",
+                        "<img src=\"paste-ffb0df190ab73155be31a3bcdb2048d325c34071.jpg\" class=\"\" style=\"height: 131px; width: 259px;\"><img src=\"paste-b5283b61344eb221c95b7d5fc87de4548d81bc09.jpg\" class=\"\" style=\"height: 150px; width: 150px;\">",
+                        ""
+                    ],
+                    "guid": "q#fO?mI,U-",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Rundgewindes.",
+                        "<img src=\"paste-a361f3483b1e346f7f314f6d0f235a83737d61a1.jpg\" class=\"\" style=\"height: 150px; width: 257px;\"><img src=\"paste-61e013527c6676e3421e5150c5f87c138c3b4589.jpg\" class=\"\" style=\"height: 264px; width: 437px;\">",
+                        ""
+                    ],
+                    "guid": "AlT?u&rHb`",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Spitzgewindes.",
+                        "<img src=\"paste-d4062ba94b0e6d75b3cb00ac95c8b6722910cd03.jpg\" class=\"\" style=\"height: 122px; width: 252px;\"><img src=\"paste-ec35fc075e2ef85a1f9b7aae2b5cbaa4ca296714.jpg\" class=\"\" style=\"height: 238px; width: 443px;\">",
+                        ""
+                    ],
+                    "guid": "zQFdkfpX&4",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere die Form eines Kugelgewindes.",
+                        "<img src=\"paste-b2349181568ce219285ccda26eb78d02abf79b4d.jpg\" class=\"\" style=\"height: 113px; width: 223px;\"><img src=\"paste-6c776e92fe03d14d91373004b89f8dca1567d6dc.jpg\" class=\"\" style=\"height: 132px; width: 231px;\">",
+                        ""
+                    ],
+                    "guid": "yF#r9J0N+q",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden Toleranzklassen für ein Gewinde angegeben?",
+                        "<ul><li>DIN 13 T14, T15 legt drei Toleranzklassen für Gewinde fest:</li><ul><li>f (fein): Hohe Genauigkeit 4H, 5H/4h, 4e</li><li>m (mittel): Allgemeine Anwendungen 6H/6g</li><li>g (grob): Für untergeordnete Zwecke 7H/8g</li></ul><li>Zur Unterscheidung zum ISO-Toleranzsystem:</li><ul><li>→ Qualitätszahl vor Toleranzlage.</li></ul><li>ohne Angaben gilt m</li></ul>",
+                        ""
+                    ],
+                    "guid": "jhfbRvI2XE",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Vorteil von Stiftschrauben?",
+                        "<ul><li>Für häufiges Lösen (z. B. Gehäuseteile)</li><li>keine Beschädigung des Innengewindes in weichem Werkstoff</li><li>Verspannung des Einschraubendes</li><li>→ kein Mitdrehen der Stiftschraube beim Lösen der Mutter</li></ul><div><img src=\"paste-d0199706fb0d8f4e338be547bbbf75c7553aea03.jpg\" class=\"\" style=\"height: 132px; width: 461px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "l$pOSGoB.B",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Höhe der Mutter wird empfohlen?",
+                        "<ul><li>m &gt; 0,9 * d</li></ul><div><img src=\"paste-bd6919943590349162f4b9fb4f3efb6960b047be.jpg\" class=\"\" style=\"height: 286px; width: 381px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "k.XK0Hw+]P",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können Gewinde in Werkstoffen mit geringer Festigkeit angebracht werden?",
+                        "<ul><li>bei:</li><ul><li>Holz, Leichtmetalle, Kunststoff</li><li>3D-Druck</li></ul><li>Ensat-Einsatzbüchsen</li><ul><li>Selbstschneidendes Außengewinde</li></ul><li>Heli-Coil<br></li><ul><li>Schraubenfeder; wird in speziell geschnittenes Gewinde eingedreht,</li><li>Mitnehmerzapfen (1) zum Eindrehen, nach dessen Bruch (2) Schraube eindrehen;</li><li>gleichmäßige Lastverteilung, abriebfestes Gewinde</li></ul></ul><div><br></div><div><img src=\"paste-9f4c1f3c90eb611c638142062f099fd180db186e.jpg\" class=\"\" style=\"height: 352px; width: 660px;\"><img src=\"paste-6cea274ba98577a72d3de37dcbfca21b3c50e2ee.jpg\" class=\"\" style=\"height: 321px; width: 684px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "j6z|kR~g$T",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können defekte Gewinde repariert werden?",
+                        "<ul><li>Ensat-Einsatzbüchsen</li><ul><li>Selbstschneidendes Außengewinde</li></ul><li>Heli-Coil<br></li><ul><li>Schraubenfeder; wird in speziell geschnittenes Gewinde eingedreht,</li><li>Mitnehmerzapfen (1) zum Eindrehen, nach dessen Bruch (2) Schraube eindrehen;</li><li>gleichmäßige Lastverteilung, abriebfestes Gewinde</li></ul></ul><div><br></div><div><img src=\"paste-9f4c1f3c90eb611c638142062f099fd180db186e.jpg\" class=\"\" style=\"height: 352px; width: 660px;\"><img src=\"paste-6cea274ba98577a72d3de37dcbfca21b3c50e2ee.jpg\" class=\"\" style=\"height: 321px; width: 684px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "f[167#/S[m",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann werden Unterlegscheiben verwendet?",
+                        "<ul><li>nur wenn unbedingt notwendig</li><ul><li>schlechteres Setzverhalten durch zusätzliche Trennfuge</li></ul><li>Minimierung der Flächenpressung</li><ul><li>bei unbearbeiteten oder empfindlichen Oberflächen</li><li>bei weichen Werkstoffen&nbsp;</li><li>bei zu großen Durchgangslöchern</li></ul><li>Ausgleich der Schrägen an U-Stahl oder I-Trägern<br></li></ul><div><img src=\"paste-fa9da6a239f7889a476b1f0643357da13b328742.jpg\" class=\"\" style=\"height: 108px; width: 190px;\"><img src=\"paste-fcdce086e0f1c6999a6b98169466b6ef0c1bc299.jpg\" class=\"\" style=\"height: 106px; width: 190px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "Hilr^8$PtC",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Festigkeitsklasse einer Schraube gekennzeichnet?",
+                        "<ul><li>zwei mit Punkt getrennte Zahlen</li><ul><li>1. Zahl = 1/100 der Mindestzugfestigkeit in N/mm²;</li><li>2. Zahl mit 10 multipliziert = Verhältnis Mindeststreckgrenze zu Mindestzugfestigkeit in Prozent</li></ul></ul>",
+                        ""
+                    ],
+                    "guid": "s(ec(79R5s",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die am häufigsten verwendete Festigkeitsklasse bei Schrauben?",
+                        "<ul><li>8.8 ist die übliche Festigkeitsklasse,&nbsp;</li><ul><li>da schlechtere Festigkeiten ungünstig&nbsp;</li><li>und höhere zu teuer sind</li></ul></ul><div><br></div><div><img src=\"paste-cdd884e21b96c552380e74ba77c268875db4e4da.jpg\" class=\"\" style=\"height: 134px; width: 776px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "A]96:(-n`J",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wovon hängt die notwendige Einschraubtiefe ab?",
+                        "<ul><li>Festigkeitsklasse</li><li>Innengewindewerkstoff</li><li>Nenndurchmesser</li><li>Art des Gewindes</li></ul><div><img src=\"paste-89dd5ec2e6511d2dc9dad86bab4835d49054666c.jpg\" class=\"\" style=\"height: 522px; width: 946px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "zyGARX2.I{",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kräfte ändern sich bei einer Schraubenverbindung, wenn eine Betriebskraft angelegt wird?",
+                        "<ul><li>Änderung der Kraft, mit der die verspannten Teile zusammengepresst werden&nbsp;</li><li>→ Änderung der Belastung der Schraube</li><li>je nach Betriebskraftrichtung (Zug / Druck) weitere Be- oder Entlastung der Schraubenverbindung</li></ul><div><img src=\"paste-d31cf99e42fe8469c2a0ea149b27fce9ee995c59.jpg\" class=\"\" style=\"height: 309px; width: 760px;\"><br></div><ul><li><font color=\"#5e5e5e\">Beispiel: Verschraubungen eines Zylinderdeckels mit anschließender Druckbeaufschlagung; Schrauben werden durch Betriebskraft zusätzlich auf Zug beansprucht</font></li></ul>",
+                        ""
+                    ],
+                    "guid": "C:0wpycK-I",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie stark wird eine Schraube durch eine zusätzliche Betriebskraft belastet?",
+                        "<ul><li>Durch Betriebskraft wird Klemmkraft verringert&nbsp;</li><li>→ Belastung der Schraube wird nur um F<sub>BS</sub> erhöht</li><li><img src=\"paste-1f4ba4457fde850eb872f25c3a6f9735731587aa.jpg\" class=\"\" style=\"height: 134px; width: 469px;\"><br></li></ul><div><img src=\"paste-d31cf99e42fe8469c2a0ea149b27fce9ee995c59.jpg\" class=\"\" style=\"height: 309px; width: 760px;\"><br></div><ul><li><font color=\"#5e5e5e\">Beispiel: Verschraubungen eines Zylinderdeckels mit anschließender Druckbeaufschlagung; Schrauben werden durch Betriebskraft zusätzlich auf Zug beansprucht</font></li></ul>",
+                        ""
+                    ],
+                    "guid": "hKScnS+Z+b",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wofür kann das Kraftverhältnis bei Schraubenverbindungen verwendet werden?",
+                        "<div><ul><li>Bestimmung der Zusatzkraft der Schraube</li></ul></div><div><br></div><div><img src=\"paste-debf87669a0f5902ef662557ed7cf128746ea21a.jpg\" class=\"\" style=\"height: 181px; width: 668px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "J=Dlr8mf]7",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Elastische Nachgiebigkeit",
+                        "δ",
+                        "\\frac{m}{N}",
+                        "Maschinenelmente",
+                        ""
+                    ],
+                    "guid": "yY>!64m*o)",
+                    "note_model_uuid": "f709b19d-7cf2-11eb-8401-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was muss bei der Grobdimensionierung einer Schraubenverbindung gemacht werden?",
+                        "<ul><li>Vorauswahl der Schrauben</li><li>Überschlägige Kontrolle der Dauerhaltbarkeit<br></li><li>Überschlägige Kontrolle der Flächenpressung unter Schraubenkopf<br></li></ul>",
+                        ""
+                    ],
+                    "guid": "vfm$tXb*@g",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Skizziere ein Verspannungsschaubild.",
+                        "<div><img src=\"paste-386c25c4c9039647b9b02bdc6a3650d494466ad1.jpg\" class=\"\" style=\"height: 414px; width: 389px;\"><ul><li>Steigung der Geraden unterschiedlich</li><ul><li>Werkstoffe der Schraube und der Platten</li></ul></ul></div><div><br></div><div><img src=\"paste-9d3d068317475bab964e7323348161a665ef7efc.jpg\" class=\"\" style=\"height: 488px; width: 448px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "pTX;i.MhwM",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die elastische Nachgiebigkeit der verschraubten Platten bestimmt werden?",
+                        "<div><ul><li>nicht ohne weiteres zu berechnen, da nicht eindeutig ist, welcher Werkstoffanteil an der Verformung beteiligt ist</li><li>Bestimmung eines Ersatzquerschnittes</li><li>Gültigkeitsbereich:&nbsp;D<sub>A</sub> &lt; d<sub>w</sub> + l<sub>K</sub> (Bei Hülsen wird wahrer Querschnitt betrachtet)</li></ul><img src=\"paste-cf7ebc7beb80566d0a615ebc3e10d0072662a592.jpg\" class=\"\" style=\"height: 238px; width: 740px;\"><img src=\"paste-4c0451ece4cc1902575c521a51eff90bcf262580.jpg\" class=\"\" style=\"height: 393px; width: 316px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "C75S`*]j&?",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die elastische Nachgiebigkeit einer Schraube bestimmt werden?",
+                        "<ul><li>Addition der&nbsp;Einzelnachgiebigkeiten</li></ul><div><img src=\"paste-fbfc9e4cc412b40fbe759102893dfb4b210f2614.jpg\" class=\"\" style=\"height: 608px; width: 994px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "yWzhR,J&q2",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welchen Einfluss hat die Position der Krafteinleitung bei einer Schraubenverbindung?",
+                        "<ul><li>nur ein Teil der verspannten Platten entlastet</li><ul><li>→ Teile erscheinen starrer</li></ul><li>Kennlinie im Verspannungsschaubild verläuft steiler</li><li>restlicher Bereich wird zusätzlich gedrückt</li><li>Klemmlänge wird kürzer</li><li>Dieser Anteil ist der Schraube zuzurechnen</li><ul><li>→ sie wirkt dadurch elastischer</li></ul><li>Die Kennlinie verläuft flacher</li><ul><li>→ Schraubenzusatzkraft F<sub>BS</sub> wird kleiner</li></ul><li>Damit ändert sich das Kraftverhältnis Φ zu:</li><ul><li>Φ = n * Φ<sub>K</sub></li><ul><li>n = Krafteinleitungsfaktor</li><li>Φ<sub>K</sub> = Kraftverhältnis für Krafteinleitung in der Schraubenkopf- und Mutterauflage</li></ul></ul></ul><div><img src=\"paste-59a49b18eac916fa34759329e51eb2a9ce52bf02.jpg\" class=\"\" style=\"height: 658px; width: 986px;\"><br></div>",
+                        ""
+                    ],
+                    "guid": "EofC3/83]Y",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Setzten bei einer Schraubenverbindung?",
+                        "<ul><li>Einebnen der Rauhigkeiten der Auflageflächen und der Gewindeflanken</li><li>→ dauert eine gewisse Zeit</li><li>Vorspannkraft FV verringert sich um den Vorspannkraftverlust FZ</li><li>Klemmkraft verringert sich</li><li>wenn FKl = 0 → Verbindung locker; die Teile liegen lose aufeinander</li><li>daher FZ bei Auslegung der Verbindung berücksichtigen</li></ul>",
+                        ""
+                    ],
+                    "guid": "sHJ#{/+.<.",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Streuung des Anziehmomentes bei der Montage berücksichtigt werden?",
+                        "<ul><li>Montage-Unsicherheitsbeiwert</li><ul><li><img src=\"paste-16503d61345aeceb7d18bbd8e0d7078c39261751.jpg\" class=\"\" style=\"height: 112px; width: 234px;\"><br></li></ul><li>Dieser Faktor ist je nach Anziehverfahren unterschiedlich</li><ul><li>z.B.&nbsp;</li><ul><li>Schlagschrauber: 2,5 - 4</li><li>Kontrolle per Ultraschall: 1,1 - 1,2</li></ul></ul></ul>",
+                        ""
+                    ],
+                    "guid": "CD4z7-#[#s",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Verfahren ermöglichen eine genaue Einstellung der Vorspannkraft?",
+                        "<ul><li>Anziehen mit Längenmessung</li><li>Streckgrenzengesteuertes Anziehen</li><li>Drehwinkelgesteuertes Anziehen</li><li>Hydraulisches Anziehen</li><li>Torsionsfreies Anziehen</li><li><font color=\"#5e5e5e\">Drehmomentgesteuertes Anziehen (vergleisweise Ungenau)</font></li><li><font color=\"#5e5e5e\">Impulsgesteuertes Anziehen (Unsicher)<br></font></li><li><font color=\"#5e5e5e\">Handmontage (Unsicher)</font><br></li></ul>",
+                        ""
+                    ],
+                    "guid": "HE_?5pp}#e",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann sind Schraubensicherungsmaßnahmen anzuwenden?",
+                        "<ul><li>Schraubensicherung bei zuverlässiger Vorspannung nicht nötig</li><li>konstruktive Maßnahmen gegen Lockern bzw. Losdrehen sind zusätzlichen Sicherungselementen vorzuziehen;</li><ul><li>→ falsche Sicherungselemente können Gefahr des selbsttätigen Lösens sogar noch erhöhen</li><ul><li>(z. B. Erhöhung der Anzahl der Trennfugen)</li></ul></ul></ul>",
+                        ""
+                    ],
+                    "guid": "dD~L[606O0",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Konstruktiven Maßnahmen können das Losdrehen einer Schraube verhindern?",
+                        "<ul><li>hohe Vorspannkräfte durch z. B. hochfeste Schrauben (&gt; 8.8) ermöglichen</li><li>Elastizität der Verbindung durch dünne lange Schrauben (lK/d 􀁴 5) erhöhen</li><li>steife Fügeteile mit hohen zulässigen Flächenpressungen verwenden</li><li>geringe Anzahl von Trennfugen anstreben, Trennflächen möglichst eben gestalten</li><li>keine „weichen“ Elemente wie Dichtungen mitverspannen</li><ul><li>entweder Anschlag oder \"feste\" Dichtung</li></ul><li>Querkraftverschiebungen vermeiden durch Formschluss; z. B. Stifte oder Passschrauben</li></ul>",
+                        ""
+                    ],
+                    "guid": "k_%s==#%M1",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche zusätzlichen Bauteile können das Losdrehen einer Schraube verhindern?",
+                        "<ul><li>Tellerfedern</li><ul><li>nur Hobbybereich (werden von Schrauben &gt; 6.8 plattgedrückt)</li></ul><li>Formschlüssige Elemente</li><ul><li>Verliersicherung: verhindern nicht das losdrehen nur das herausfallen</li><li>halten nur begrenzte Restvorspannkraft aufrecht</li></ul><li>Klemmende Sicherungselemente</li><ul><li>Verliersicherung</li></ul><li>Sperrende Elemente</li><li>Klebende Elemente</li><ul><li>Reibbeiwert wird beeinflusst</li></ul></ul>",
+                        ""
+                    ],
+                    "guid": "C??Rg8_wwR",
+                    "note_model_uuid": "6b948765-7cf2-11eb-b068-5c879c1cb9ab",
+                    "tags": [
+                        "Klausur::Maschinenelemente::05_Schrauben",
+                        "von_Niklas_erstellt"
+                    ]
                 }
             ]
         },
@@ -10802,7 +11439,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Vorgehen zu Bestimmung der Schnittgrößenverläufe (ohne Föppl Klammer)?",
+                        "Vorgehen zur Bestimmung der Schnittgrößenverläufe (ohne Föppl Klammer)?",
                         "<ol><li>Auflagerkräfte bestimmen</li><li>Balken in mehrere Schnitte aufteilen</li><li>Für jeden Abschritt Gleichgweichtsbedingungen aufstellen und umstellen</li></ol>",
                         "87889653316"
                     ],
@@ -11450,8 +12087,8 @@
                 "latex-d0230e8607710cf2038814234f7a903cdec8854a.svg",
                 "latex-d190cd0464d654bf42bf77e8a31834f000635e4f.svg",
                 "latex-d2208b6ecd38a223e807d1e843ada25f2dab73cd.svg",
-                "latex-d75397679a094f662cc1a9f9b9d6af361e56065a.svg",
                 "latex-db8580a31117223b2874862b12ed4e8d6ce427e5.svg",
+                "latex-e40669b79144136114d75a5a73d00977d5bd6fa5.svg",
                 "latex-e82a71ded84e65b86b319c70e3c83c9de5f6f052.svg",
                 "latex-eaafd45ef97ac30bc417661a085c3b0f4144a74e.svg",
                 "latex-ec45ecbe4085caf773f13aaed0564737c1c6c219.svg",
@@ -12300,7 +12937,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie entsteht Druck?",
+                        "Wie entsteht/äußert sich Druck in einem System?",
                         "<ul><li>durch Teilchen, die gegen die Behälterwand stossen<br></li></ul><div><img src=\"paste-8e199573aa925e7c2571f611207ef0e41cb042ee.jpg\"><br></div>",
                         "102662320710"
                     ],
@@ -13784,7 +14421,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Nenne die Formel, die den 1. HS bei geschlossenen Systemen darstellt.",
-                        "<ul><li>[$$]d_Q + dW_{v,rev} + dW_{Diss} = dU + dE_{kin} + dE_{pot}[/$$]</li><li><font color=\"#5e5e5e\">Prozessgrößen = Zustandsgrößen</font></li></ul>",
+                        "<ul><li>[$$]dQ + dW_{v,rev} + dW_{Diss} = dU + dE_{kin} + dE_{pot}[/$$]</li><li><font color=\"#5e5e5e\">Prozessgrößen = Zustandsgrößen</font></li></ul>",
                         "104306501590"
                     ],
                     "guid": "j@q?b7-CeH",
@@ -43193,7 +43830,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 22
+                "perDay": 10
             },
             "replayq": true,
             "rev": {
